@@ -1,0 +1,15 @@
+2022/07/05-11:37:14.070 5dfc Reusing MANIFEST C:\Users\mssql1\source\repos\AppPruebaWA_botFree\session-client-one\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/05-11:37:14.070 5dfc Recovering log #24
+2022/07/05-11:37:14.071 5dfc Reusing old log C:\Users\mssql1\source\repos\AppPruebaWA_botFree\session-client-one\Default\Local Storage\leveldb/000024.log 
+2022/07/05-12:39:14.364 1e54 Level-0 table #28: started
+2022/07/05-12:39:14.366 1e54 Level-0 table #28: 8894 bytes OK
+2022/07/05-12:39:14.367 1e54 Delete type=0 #24
+2022/07/05-12:39:14.367 1e54 Compacting 4@0 + 1@1 files
+2022/07/05-12:39:14.369 1e54 Generated table #29@0: 71 keys, 10877 bytes
+2022/07/05-12:39:14.369 1e54 Compacted 4@0 + 1@1 files => 10877 bytes
+2022/07/05-12:39:14.370 1e54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/05-12:39:14.370 1e54 Delete type=2 #18
+2022/07/05-12:39:14.370 1e54 Delete type=2 #20
+2022/07/05-12:39:14.370 1e54 Delete type=2 #22
+2022/07/05-12:39:14.370 1e54 Delete type=2 #25
+2022/07/05-12:39:14.370 1e54 Delete type=2 #28
